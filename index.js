@@ -289,7 +289,7 @@ function getGermanCars(inventory) {
  * }
 */
 const sum = null; // code here!
-const sum = (a,b) => a + b; // code here!
+const sum1 = (a,b) => a + b; // code here!
 const addFive = num => num + 5; // code here!
 const argTimesTwo = num => num * 2 // code here!
 
